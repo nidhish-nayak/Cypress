@@ -1,5 +1,4 @@
-# dependencies
-/node_modules
+# Dependency directories
 
-# production
-/build
+node_modules/
+jspm_packages/
