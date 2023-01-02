@@ -19,6 +19,7 @@ describe('Protractor Demo App', function () {
 
         goButton.click();
 
+        // Type "protractor conf.js" command in the console to run the file
         expect(latestResult.getText()).toEqual('3');
     });
 });

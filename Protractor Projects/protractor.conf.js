@@ -2,10 +2,10 @@
 exports.config = {
 
     // The address of a running selenium server.
-    seleniumAddress: 'http://localhost:4444/wd/hub',
+    // seleniumAddress: 'http://localhost:4444/wd/hub',
 
     // For running without selenium server.
-    // directConnect: true,
+    directConnect: true,
 
     // Capabilities to be passed to the webdriver instance.
     capabilities: {
@@ -17,7 +17,9 @@ exports.config = {
     // Spec patterns are relative to the configuration file location passed
     // to protractor (in this example conf.js).
     // They may include glob patterns.
-    specs: ['example_spec.js'],
+    specs: [
+        './Tests/calculator.js'
+    ],
 
     // Options to be passed to Jasmine-node.
     jasmineNodeOpts: {
