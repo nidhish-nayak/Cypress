@@ -18,7 +18,7 @@ exports.config = {
     // to protractor (in this example conf.js).
     // They may include glob patterns.
     specs: [
-        './WriteToExcel.js'
+        './ReadFromJson.js'
     ],
 
     // Options to be passed to Jasmine-node.
@@ -26,4 +26,6 @@ exports.config = {
     //     showColors: true, // Use colors in the command line report.
     //     defaultTimeoutInterval: 30000,
     // }
+
+    params: require('./TestData/test.json')
 };
