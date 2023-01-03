@@ -18,7 +18,7 @@ exports.config = {
     // to protractor (in this example conf.js).
     // They may include glob patterns.
     specs: [
-        'ReadFromExcel.js'
+        './WriteToExcel.js'
     ],
 
     // Options to be passed to Jasmine-node.
