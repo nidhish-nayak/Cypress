@@ -4,8 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "cypress run --record",
-        "build": "cypress run --record"
+        "start": "cypress run --record"
     },
     "author": "Nidhish-D-Nayak",
     "license": "ISC",
