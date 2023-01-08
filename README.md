@@ -38,9 +38,9 @@ Run Command in Terminal:
 To run a specific test case in protractor - navigate to the test-case folder in terminal (make sure it has protractor.conf.js file with the test case js file):
 <br />
 Run Command in Terminal: 
-<h3>Webdriver - </h3>
-<h2>webdriver-manager update</h2>
-<h2>webdriver-manager start</h2>
-<h3>Test Case - </h3>
-<h2>protractor protractor.conf.js</h2>
+<h2>Webdriver - </h2>
+<h3>webdriver-manager update</h3>
+<h3>webdriver-manager start</h3>
+<h2>Test Case - </h2>
+<h3>protractor protractor.conf.js</h3>
 <br />
