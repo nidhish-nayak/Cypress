@@ -1,7 +1,7 @@
 describe('Testing fixtures using Custom commands', () => {
 
-    it('This test must fail and screenshot needs to be captured ', () => {
-        cy.login('admin@yourstore.com', 'adminfail');
+    it('Passing this test post checking for screenshot with correct values', () => {
+        cy.login('admin@yourstore.com', 'admin');
         cy.title().should('eq', 'Dashboard / nopCommerce administration')
     });
 
