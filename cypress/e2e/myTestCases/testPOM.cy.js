@@ -1,4 +1,4 @@
-import LoginPage from "../pageObjects/loginPage";
+import LoginPage from "../pageObjects/LoginPage.js";
 
 describe('Testing POM for cypress', () => {
 
