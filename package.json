@@ -4,10 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "my-server -p 3030",
-        "build": "cypress run --record",
-        "cy:run": "cypress run",
-        "test": "start-server-and-test start http://localhost:3030 cy:run"
+        "start": "cypress run --record",
+        "build": "cypress run --record"
     },
     "author": "Nidhish-D-Nayak",
     "license": "ISC",
