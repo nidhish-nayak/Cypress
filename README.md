@@ -23,11 +23,12 @@ This project includes Automation Testing which explores different areas of testi
 <br />
 To run a specific cy.js file follow the instructions given below post loggin in to 'cypress-automation' folder:
 <br />
-Run Command in Terminal: npx cypress run --spec cypress/e2e/myTestCases/testPOM.cy.js
+Run Command in Terminal: 
+<h3>npx cypress run --spec cypress/e2e/myTestCases/testPOM.cy.js</h3>
 <br />
 <br />
 To run all the test cases, follow the instructions given below post loggin in to 'cypress-automation' folder:
 <br />
-Run Command in Terminal: npx cypress run
+Run Command in Terminal: 
+<h3>npx cypress run</h3>
 <br />
--------------------------------------------------------------------------------------------------------------------------------------------------------
