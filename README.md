@@ -1,4 +1,4 @@
-# 💫 Quality Automation:
+# 💫 Cypress - Quality Automation:
 This project includes Automation Testing which explores different areas of testing as listed below:<br>🔭 UI & End to End Testing<br>🤝 API Testing<br>🌱 Performance Testing<br>💬 Continuous Testing<br>⚡ Unit Testing
 
 
@@ -31,16 +31,4 @@ To run all the test cases, follow the instructions given below post loggin in to
 <br />
 Run Command in Terminal: 
 <h3>npx cypress run</h3>
-<br />
-
-# :dart: Protractor Run Commands:
-<br />
-To run a specific test case in protractor - navigate to the test-case folder in terminal (make sure it has protractor.conf.js file with the test case js file):
-<br />
-Run Command in Terminal: 
-<h2>Webdriver - </h2>
-<h3>webdriver-manager update</h3>
-<h3>webdriver-manager start</h3>
-<h2>Test Case - </h2>
-<h3>protractor protractor.conf.js</h3>
 <br />
