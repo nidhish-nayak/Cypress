@@ -4,8 +4,10 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "cy:run": "cypress run"
+        "start": "my-server -p 3030",
+        "build": "cypress run",
+        "cy:run": "cypress run",
+        "test": "start-server-and-test start http://localhost:3030 cy:run"
     },
     "author": "Nidhish-D-Nayak",
     "license": "ISC",
