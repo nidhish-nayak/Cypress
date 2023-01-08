@@ -1,25 +1,26 @@
-# 💫 Cypress - Quality Automation:
-This project includes Automation Testing which explores different areas of testing as listed below:<br>🔭 UI & End to End Testing<br>🤝 API Testing<br>🌱 Performance Testing<br>💬 Continuous Testing<br>⚡ Unit Testing
-
+### 💫 Cypress - Quality Automation:
+This project includes Automation Testing which explores different areas of testing such as :rocket: UI Testing and :jigsaw: E2E Testing with Cypress. Cypress dashboard/CLI can be used to run the test cases as needed. Also, 🔬 Continuous Integration with Github Actions has been implemented such that the tests are run automatically if any test cases are pushed to the github repository.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) 
+### 💻 Technologies Used:
 <br />
-![Selenium](https://badgen.net/badge/Selenium/Java&Python/red?icon=twitter) 
-![Protractor](https://badgen.net/badge/Protractor/E2E-Testing/red?icon=twitter)
-![Cypress](https://badgen.net/badge/Cypress/UI-Testing/red?icon=twitter)
-![Postman](https://badgen.net/badge/Postman/API-Testing/red?icon=twitter)
-![JMeter](https://badgen.net/badge/JMeter/Performance-Testing/red?icon=twitter)
-![BDD](https://badgen.net/badge/BDD&Devops/Continuous-Testing/red?icon=twitter)
+
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br />
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# :gem: Cypress Run Commands:
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+<hr>
+
+### :gem: Cypress Run Commands:
 <br />
 To run a specific cy.js file follow the instructions given below post loggin in to 'cypress-automation' folder:
 <br />
