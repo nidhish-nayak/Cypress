@@ -18,3 +18,16 @@ This project includes Automation Testing which explores different areas of testi
 ![BDD](https://badgen.net/badge/BDD&Devops/Continuous-Testing/red?icon=twitter)
 <br />
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# :gem: Cypress:
+<br />
+To run a specific cy.js file follow the instructions given below post loggin in to 'cypress-automation' folder:
+<br />
+Run Command in Terminal: npx cypress run --spec cypress/e2e/myTestCases/testPOM.cy.js
+<br />
+<br />
+To run all the test cases, follow the instructions given below post loggin in to 'cypress-automation' folder:
+<br />
+Run Command in Terminal: npx cypress run
+<br />
+-------------------------------------------------------------------------------------------------------------------------------------------------------
