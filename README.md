@@ -19,7 +19,7 @@ This project includes Automation Testing which explores different areas of testi
 <br />
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# :gem: Cypress:
+# :gem: Cypress Run Commands:
 <br />
 To run a specific cy.js file follow the instructions given below post loggin in to 'cypress-automation' folder:
 <br />
@@ -31,4 +31,16 @@ To run all the test cases, follow the instructions given below post loggin in to
 <br />
 Run Command in Terminal: 
 <h3>npx cypress run</h3>
+<br />
+
+# :dart: Protractor Run Commands:
+<br />
+To run a specific test case in protractor - navigate to the test-case folder in terminal (make sure it has protractor.conf.js file with the test case js file):
+<br />
+Run Command in Terminal: 
+<h3>Webdriver - </h3>
+<h2>webdriver-manager update</h2>
+<h2>webdriver-manager start</h2>
+<h3>Test Case - </h3>
+<h2>protractor protractor.conf.js</h2>
 <br />
